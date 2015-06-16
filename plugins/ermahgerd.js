@@ -48,6 +48,7 @@ function str_split(string, split_length) {
       case 'WE\'RE':      return 'WER';
       case 'YOU':       return 'U';
       case 'YOU\'RE':     return 'YER';
+      case 'MALIN':     return 'MERLIN';
     }
 
     // Before translating, keep a reference of the original word
